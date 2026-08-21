@@ -1,4 +1,4 @@
-# [Project Name]
+# [enterprise risk assessment]
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow"/>
@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Author** | Joud Alhussain |
-| **Date** | [Month Year] |
+| **Date** | Aug 2026 |
 | **Methodology** | [e.g. OWASP Testing Guide / ISO 27005 / NIST] |
 | **Tools Used** | [e.g. Nmap, Nessus, Wazuh] |
 | **Report** | [PDF Report](#) |
@@ -17,25 +17,40 @@
 ---
 
 ## 📋 Project Overview
-A concise, one-paragraph summary of what this project is and what it demonstrates — written so a recruiter skimming for 30 seconds understands the value immediately.
+This project conducts an enterprise risk assessment of Waffarah, a fictional 
+mid-size e-commerce company, following the ISO/IEC 27005 information security 
+risk management process. Unlike the technical penetration test in the 
+Enterprise Security Assessment project, this assessment takes a broader 
+governance and risk management view — covering people, process, technology, 
+and third-party risk, not just the web application.
 
 ## 🏢 Business Scenario
-The fictional (or anonymized real) organization this engagement was performed for — its industry, size, and why this work mattered to it.
+Waffarah is a mid-size e-commerce company (~150 employees) handling customer 
+orders and payment data. As part of maturing its security posture ahead of 
+a compliance audit, Waffarah's leadership commissioned a formal information 
+security risk assessment to identify, evaluate, and prioritize risks across 
+the business — informing budget and resourcing decisions for the year ahead.
 
 ## 🎯 Objectives
-- Objective 1
-- Objective 2
-- Objective 3
+- Identify Waffarah's key information assets and their business value
+- Identify relevant threats and vulnerabilities for each asset
+- Score and prioritize risks using a likelihood/impact risk matrix
+- Produce a risk treatment plan with clear ownership and next steps
+- Present findings in a business-readable format for leadership
 
 ## 🔍 Scope
-**In scope:**
-- Item 1
+**In scope:** Information assets, systems, and processes core to Waffarah's 
+e-commerce operations — customer data, payment processing, employee access, 
+key third-party vendors, and physical premises security.
 
-**Out of scope:**
-- Item 1
+**Out of scope:** Full technical penetration testing (covered separately in 
+the Enterprise Security Assessment project), financial/market risk, and 
+legal/contractual risk not related to information security.
 
 ## 🧭 Methodology
-The framework and approach followed, and why it was chosen.
+This assessment follows the ISO/IEC 27005 information security risk 
+management process: context establishment, risk identification (asset-based), 
+risk analysis, risk evaluation, and risk treatment.
 
 ## 🖥️ Environment
 | Component | Detail |
