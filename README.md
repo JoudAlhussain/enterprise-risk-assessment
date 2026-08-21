@@ -12,7 +12,7 @@
 | **Date** | August 2026 |
 | **Methodology** | ISO/IEC 27005 Information Security Risk Management |
 | **Report** | [PDF Report](https://github.com/JoudAlhussain/enterprise-risk-assessment/blob/main/Waffarah_Enterprise_Risk_Assessment_Report.pdf) |
-| **Presentation** | [Business Presentation (PPTX)](#) |
+| **Presentation** | [Business Presentation (PPTX)](https://github.com/JoudAlhussain/enterprise-risk-assessment/blob/main/Waffarah_Risk_Assessment_Presentation.pptx) |
 
 ---
 
@@ -168,7 +168,7 @@ Four Critical risks — SQL injection, credential exposure, admin panel access c
 ## 📎 Repository Resources
 
 - 📄 [Full PDF Report](https://github.com/JoudAlhussain/enterprise-risk-assessment/blob/main/Waffarah_Enterprise_Risk_Assessment_Report.pdf)
-- 📊 [Business Presentation (PPTX)](#)
+- 📊 [Business Presentation (PPTX)](https://github.com/JoudAlhussain/enterprise-risk-assessment/blob/main/Waffarah_Risk_Assessment_Presentation.pptx)
 - 💼 [LinkedIn Post](#)
 
 ---
