@@ -11,7 +11,7 @@
 | **Author** | Joud Alhussain |
 | **Date** | August 2026 |
 | **Methodology** | ISO/IEC 27005 Information Security Risk Management |
-| **Report** | [PDF Report](#) |
+| **Report** | [PDF Report](https://github.com/JoudAlhussain/enterprise-risk-assessment/blob/main/Waffarah_Enterprise_Risk_Assessment_Report.pdf) |
 | **Presentation** | [Business Presentation (PPTX)](#) |
 
 ---
