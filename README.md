@@ -167,7 +167,7 @@ Four Critical risks — SQL injection, credential exposure, admin panel access c
 
 ## 📎 Repository Resources
 
-- 📄 [Full PDF Report](#)
+- 📄 [Full PDF Report](https://github.com/JoudAlhussain/enterprise-risk-assessment/blob/main/Waffarah_Enterprise_Risk_Assessment_Report.pdf)
 - 📊 [Business Presentation (PPTX)](#)
 - 💼 [LinkedIn Post](#)
 
