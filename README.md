@@ -52,6 +52,21 @@ This assessment follows the ISO/IEC 27005 information security risk
 management process: context establishment, risk identification (asset-based), 
 risk analysis, risk evaluation, and risk treatment.
 
+## 📦 Asset Inventory
+
+Assets were identified across three categories, each rated for 
+Confidentiality, Integrity, and Availability (CIA) impact, following 
+ISO/IEC 27005's asset-based risk assessment approach.
+
+### Data Assets
+[ the data assets table]
+
+### Systems & Technology Assets
+[ the systems table, with your Backup Systems fix — Availability: High]
+
+### People & Process Assets
+[ the people/process table]
+
 ## 🖥️ Environment
 | Component | Detail |
 |---|---|
